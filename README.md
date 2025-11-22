@@ -1,4 +1,6 @@
 # Bernstein Vazirani in Qiskit
+Qiskit implementation of [Bernstein Vazirani Algorithm](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Vazirani_algorithm) in the course [QPROG](https://utbildning.su.se/english/education/course-catalogue/ml/ml730n) at Department of Computer and System Sciences
+
 ## Authors
 - Lars Herbold
 - Fredrik Etsare
