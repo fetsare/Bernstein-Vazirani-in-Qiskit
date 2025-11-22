@@ -1,5 +1,5 @@
 qiskit
 qiskit-ibm-runtime
 jupyterlab
-"qiskit [ visualization ]"
-
+qiskit [ visualization ]
+python-dotenv
