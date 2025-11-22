@@ -12,7 +12,7 @@ cd Bernstein-Vazirani-in-Qiskit
 ```
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 ```
 
 * On Linux/macOS:
