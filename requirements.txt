@@ -1,5 +1,3 @@
 qiskit
-qiskit-ibm-runtime
 jupyterlab
 qiskit [ visualization ]
-python-dotenv
